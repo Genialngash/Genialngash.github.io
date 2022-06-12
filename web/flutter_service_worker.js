@@ -12,13 +12,13 @@ const RESOURCES = {
 "version.json": "191f58f9f455aaa829b7390f453b5f1e",
 "assets/assets/moon_pay.svg": "1fc11ab6b8029696398b422f4471c1ad",
 "assets/assets/moon_pay.jpeg": "4e2c9906fed4ca2e9ed5599cce2e7c92",
-"assets/assets/symbol-usdt.svg": "a17d8cd384ec08ae4ad9c94be91d542e",
-"assets/assets/symbol-sol.svg": "9d17cef70713dc8d421ee8306d459976",
-"assets/assets/symbol-bnb.svg": "955f6f0072b63dfe2b1edc072183875e",
 "assets/assets/homePageHero.png": "d88bdf72ef29e5ee17097aab9268df8c",
 "assets/assets/btc-white.svg": "95a23490af9826b4937b893805a5506d",
 "assets/assets/symbol-ltc.svg": "5ce30cc438c19fb5631405657c32af7a",
 "assets/assets/symbol-eth.svg": "6173dd56845f928ab13db8e0c398f981",
+"assets/assets/symbol-usdt.svg": "a17d8cd384ec08ae4ad9c94be91d542e",
+"assets/assets/symbol-bnb.svg": "955f6f0072b63dfe2b1edc072183875e",
+"assets/assets/symbol-sol.svg": "9d17cef70713dc8d421ee8306d459976",
 "assets/packages/agora_rtc_engine/assets/AgoraRtcWrapper.bundle.js": "d08573d6e0f8b6bff73a66ce65f514ff",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -48,8 +48,8 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "manifest.json": "7c3c887d30bb37d9128b5ec528a6f350",
-"index.html": "5b41fce0f35cedbee6b09137c397f44d",
-"/": "5b41fce0f35cedbee6b09137c397f44d"
+"index.html": "ff86f2cc42fce6be943eb87da88833f9",
+"/": "ff86f2cc42fce6be943eb87da88833f9"
 };
 
 // The application shell files that are downloaded before a service worker can
