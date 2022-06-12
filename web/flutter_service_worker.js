@@ -29,7 +29,6 @@ const RESOURCES = {
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
 "assets/packages/getwidget/icons/wechat.png": "ba10e8b2421bde565e50dfabc202feb7",
 "assets/packages/getwidget/icons/google.png": "596c5544c21e9d6cb02b0768f60f589a",
-"assets/packages/getwidget/icons/whatsapp.png": "30632e569686a4b84cc68169fb9ce2e1",
 "assets/packages/getwidget/icons/pinterest.png": "d52ccb1e2a8277e4c37b27b234c9f931",
 "assets/packages/getwidget/icons/line.png": "da8d1b531d8189396d68dfcd8cb37a79",
 "assets/packages/getwidget/icons/youtube.png": "1bfda73ab724ad40eb8601f1e7dbc1b9",
@@ -37,6 +36,7 @@ const RESOURCES = {
 "assets/packages/getwidget/icons/linkedin.png": "822742104a63a720313f6a14d3134f61",
 "assets/packages/getwidget/icons/twitter.png": "caee56343a870ebd76a090642d838139",
 "assets/packages/getwidget/icons/slack.png": "19155b848beeb39c1ffcf743608e2fde",
+"assets/packages/getwidget/icons/whatsapp.png": "30632e569686a4b84cc68169fb9ce2e1",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "b62641afc9ab487008e996a5c5865e56",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/AssetManifest.json": "14399d545c6b145519c6e24840b50089",
@@ -48,8 +48,8 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "manifest.json": "7c3c887d30bb37d9128b5ec528a6f350",
-"index.html": "cfda082dfd102f45b127d2d7c2d17c09",
-"/": "cfda082dfd102f45b127d2d7c2d17c09"
+"index.html": "84701bb48990372f6e863d752467dffb",
+"/": "84701bb48990372f6e863d752467dffb"
 };
 
 // The application shell files that are downloaded before a service worker can
