@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"main.dart.js": "03711cded7ee551cb57953524105f893",
+"main.dart.js": "6ddbbc2964f292fc2547d71fdc1230c0",
 "version.json": "191f58f9f455aaa829b7390f453b5f1e",
 "assets/assets/moon_pay.svg": "1fc11ab6b8029696398b422f4471c1ad",
 "assets/assets/moon_pay.jpeg": "4e2c9906fed4ca2e9ed5599cce2e7c92",
@@ -48,8 +48,8 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "manifest.json": "7c3c887d30bb37d9128b5ec528a6f350",
-"index.html": "ff86f2cc42fce6be943eb87da88833f9",
-"/": "ff86f2cc42fce6be943eb87da88833f9"
+"index.html": "cfda082dfd102f45b127d2d7c2d17c09",
+"/": "cfda082dfd102f45b127d2d7c2d17c09"
 };
 
 // The application shell files that are downloaded before a service worker can
